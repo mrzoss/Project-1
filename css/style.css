@@ -1,0 +1,62 @@
+body {
+    background-color: #d4eeff;
+    font-family: Tahoma;
+}
+
+h1 {
+    text-align: center;
+}
+
+.parrafo {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.citacion {
+    color: #909090cc;
+    text-align: center;
+    font-size: 15px;
+}
+
+div.contenido-principal {
+    width: 80%;
+    margin: 100px auto 0 auto;
+    padding: 20px 10px;
+}
+
+div.contenido-citacion {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 60px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+}
+
+td {
+    padding: 10px;
+}
+
+td, th {
+    border: 2px solid #9f9f9f;
+}
+
+.logo {
+    width: 90px;
+    height: 90px;
+}
+
+.contenido-tabla {
+    margin-top: 50px;
+}
